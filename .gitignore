@@ -1,0 +1,10 @@
+.*
+
+!.gitignore
+
+lr1/.*
+lr1/Debug
+lr1/Drivers
+lr1/*.ld
+lr1/*.launch
+lr1/Core/Startup
